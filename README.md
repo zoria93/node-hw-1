@@ -6,7 +6,7 @@ node index.js --action="list" https://ibb.co/dcYnWtq
 
 # Отримуємо контакт по id
 
-node index.js --action="get" --id 05olLMgyVQdWRwgKfg5J6 https://ibb.co/6YRFtrtclear
+node index.js --action="get" --id 05olLMgyVQdWRwgKfg5J6 https://ibb.co/6YRFtrt
 
 # Додаємо контакт
 
